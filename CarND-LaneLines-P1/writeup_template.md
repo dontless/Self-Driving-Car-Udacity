@@ -2,15 +2,15 @@
 
 ## Writeup Template
 
-### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
+###You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
 
 ---
 
-**Finding Lane Lines on the Road**
+** Finding Lane Lines on the Road**
 
 The goals / steps of this project are the following:-
 
- ****Lane lines detecting pipeline consists of the following steps:
+ **** Lane lines detecting pipeline consists of the following steps:
  
 1.we need to import the cv2 module, which will make available the functionalities needed to read the original image and to convert it to gray scale.
 2.apply Gaussian blur filter to the grayscaled image in order to suppress noise and spurious gradients by averaging;
