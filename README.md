@@ -17,6 +17,6 @@ Term 1: Deep Learning and Computer Vision (Started Jan 2017)
 
 # Deep Learning
 
-**Project 2: Traffic Sign Classifier (Deep Learning) - Use tensorflow to train a convolution neural network capable of detecting road side traffic signs.
-Project 3: Behavioural Cloning (Deep Learning): Train a car to drive in a 3D simulator using a deep neural network.
+### Project 2: Traffic Sign Classifier (Deep Learning) - Use tensorflow to train a convolution neural network capable of detecting road side traffic signs.
+### Project 3: Behavioural Cloning (Deep Learning): Train a car to drive in a 3D simulator using a deep neural network.
 
