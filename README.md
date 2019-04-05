@@ -1,4 +1,4 @@
-# Self-riving Car Nano Degree
+# Self-driving Car Nano Degree
 
 Repository contains my project submissions for Udacity's self driving car nano degree.
 
